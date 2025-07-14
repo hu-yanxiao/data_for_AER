@@ -1,2 +1,2 @@
 # data_for_AER
-MTP models and MD simulation details in paper. 
+MTP/AER models and MD simulation details.
